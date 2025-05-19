@@ -1,7 +1,7 @@
 <h1 align="center">🤖 Social Profile Explorer Agent — Profile to Blog Summary </h1>
 
 <p align="center">
-  A smart AI browser agent built using ![MultiOn](https://www.multion.ai) and techniques from the **Building AI Browser Agents** course by Div Garg and Naman Garg.💡
+  A smart AI browser agent built using (MultiOn)[https://www.multion.ai] and techniques from the **Building AI Browser Agents** course by Div Garg and Naman Garg.💡
 </p>
 
 <p align="center">
@@ -32,7 +32,7 @@ Perfect for:
 ## 🚀 Getting Started
 > This project runs inside the MultiOn environment — no separate installation needed.
 
-1. Sign in to [MultiOn](https://www.multion.ai)
+1. Sign in to MultiOn
 2. Paste your natural language command (e.g. “Summarize this LinkedIn profile and blog”)
 3. Watch the magic happen 🪄
 
