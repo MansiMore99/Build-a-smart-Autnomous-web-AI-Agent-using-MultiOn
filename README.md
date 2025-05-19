@@ -1,7 +1,7 @@
 <h1 align="center">🤖 Social Profile Explorer Agent — Profile to Blog Summary </h1>
 
 <p align="center">
-  A smart AI browser agent built using (MultiOn)[https://www.multion.ai] and techniques from the **Building AI Browser Agents** course by Div Garg and Naman Garg.💡
+  A smart AI browser agent built using [MultiOn](https://www.multion.ai) and techniques from the <b>Building AI Browser Agents</b> course by Div Garg and Naman Garg.💡
 </p>
 
 <p align="center">
